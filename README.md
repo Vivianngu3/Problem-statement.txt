@@ -1,11 +1,11 @@
 # Problem-statement.txt
 
 ## **The Problem**
-> Women who are impacted socially and economically by the pandemic have faced increasing accounts of domestic violence, with limited access to services for help.
+> Women who are impacted socially and economically by the pandemic have faced increasing accounts of domestic violence, with limited access to services for help and recovery from trauma.
 
 ## **Description**
 
-According to UN statistics, 1 in 3 women are said to be victims of physical or sexual violence at least once since the age of 15, often times by their partners. To be even more percise, an average of 20 people experience domestic violence every minute in the United States. Although that data can even be seen as unreliable because of the factor that many cases go unreported due to the fear women have to speak up about it. In the wave of the pandemic, quarantine became a way to protect eachother from the virus but it also granted more freedom to domestic abusers. Since the start of quarantine, there has been a reported increase of 21-35% of domestic violence cases throughout different states. 
+According to UN statistics, 1 in 3 women are said to be victims of physical or sexual violence at least once since the age of 15, often times by their partners. To be even more percise, an average of 20 people experience domestic violence every minute in the United States. Although that data can even be seen as unreliable because of the factor that many cases go unreported due to the fear women have to speak up about it. In the wave of the pandemic, quarantine became a way to protect eachother from the virus but it also granted more freedom to domestic abusers. Since the start of quarantine, there has been a reported increase of 21-35% of domestic violence cases throughout different states. Harm against another is always  serious 
 
 ## **Causes**
 
